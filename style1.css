@@ -1,0 +1,66 @@
+#navbar {
+    background-color: #10109e; 
+}
+h1{
+    margin-left: 20px;
+    text-decoration: solid;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2{
+    margin-left: 20px;
+    text-decoration: solid;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.navbar-title{
+    color: white;
+    text-decoration: solid;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+#boton{
+    text-decoration: solid;
+    color: white;
+    background-color:#10109e;
+    border-color: #0049a7;
+    text-decoration: solid;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#consumo{
+    text-decoration: solid;
+    color: white;
+    background-color:#10109e;
+    border-color: #0049a7; 
+    text-decoration: solid;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#lectura{
+    text-decoration: solid;
+    color: white;
+    background-color:#10109e;
+    border-color: #738dae; 
+    text-decoration: solid;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#timeline{
+    text-decoration: solid;
+    color: white;
+    background-color:#10109e;
+    border-color: #0049a7; 
+    text-decoration: solid;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.content-box {
+    display: none;
+}
+.content-box.active {
+    display: block;
+}
+.button-group {
+    display: flex;
+    justify-content: flex-start;
+    gap: 10px;
+    margin-bottom: 20px;
+}
